@@ -5,7 +5,7 @@ The features of this project are : listing,  searching,  offering/accepting, and
 The project was developed as a learning outcome of the course Software Engineering Fundamentals. 
 #### To run this project, the tools required are :
 - Java SE Development Kit ( Java 8.0+) 
-- Text Editor like clipse, IntelliJ ( Optional) 
+- Text Editor like Eclipse, IntelliJ 
 ### Development
 -Object oriented programming principles
 ### Testing
